@@ -1,0 +1,9 @@
+app:
+  name: "Belajar Golang Viper"
+  version: "1.0.0"
+  author: "Salman"
+
+database:
+  host: "localhost"
+  port: 5432
+  showsql: true
